@@ -1,0 +1,177 @@
+[
+    {
+        "Name": "Arshad",
+        "Roll Number": 101,
+        "Branch": "CSE",
+        "Subjects": [
+            "Physics",
+            "Math",
+            "Hindi"
+        ],
+        "Marks": {
+            "Physics": 89,
+            "Math": 91,
+            "Hindi": 85
+        },
+        "Technical Skills": [
+            "Python",
+            "JavaScript"
+        ]
+    },
+    {
+        "Name": "Maya",
+        "Roll Number": 102,
+        "Branch": "ECE",
+        "Subjects": [
+            "Physics",
+            "Math",
+            "English"
+        ],
+        "Marks": {
+            "Physics": 92,
+            "Math": 88,
+            "English": 90
+        },
+        "Technical Skills": [
+            "C++",
+            "HTML"
+        ]
+    },
+    {
+        "Name": "Ravi",
+        "Roll Number": 103,
+        "Branch": "ME",
+        "Subjects": [
+            "Thermodynamics",
+            "Math",
+            "English"
+        ],
+        "Marks": {
+            "Thermodynamics": 85,
+            "Math": 87,
+            "English": 80
+        },
+        "Technical Skills": [
+            "AutoCAD",
+            "MATLAB"
+        ]
+    },
+    {
+        "Name": "Sneha",
+        "Roll Number": 104,
+        "Branch": "CSE",
+        "Subjects": [
+            "Data Structures",
+            "Math",
+            "English"
+        ],
+        "Marks": {
+            "Data Structures": 95,
+            "Math": 93,
+            "English": 89
+        },
+        "Technical Skills": [
+            "Java",
+            "SQL"
+        ]
+    },
+    {
+        "Name": "Amit",
+        "Roll Number": 105,
+        "Branch": "ECE",
+        "Subjects": [
+            "Circuits",
+            "Math",
+            "Hindi"
+        ],
+        "Marks": {
+            "Circuits": 88,
+            "Math": 90,
+            "Hindi": 84
+        },
+        "Technical Skills": [
+            "VHDL",
+            "Python"
+        ]
+    },
+    {
+        "Name": "Priya",
+        "Roll Number": 106,
+        "Branch": "ME",
+        "Subjects": [
+            "Mechanics",
+            "Math",
+            "English"
+        ],
+        "Marks": {
+            "Mechanics": 91,
+            "Math": 89,
+            "English": 87
+        },
+        "Technical Skills": [
+            "SolidWorks",
+            "C++"
+        ]
+    },
+    {
+        "Name": "Vikram",
+        "Roll Number": 107,
+        "Branch": "CSE",
+        "Subjects": [
+            "Algorithms",
+            "Math",
+            "English"
+        ],
+        "Marks": {
+            "Algorithms": 94,
+            "Math": 92,
+            "English": 90
+        },
+        "Technical Skills": [
+            "Python",
+            "JavaScript"
+        ]
+    },
+    {
+        "Name": "Arshad",
+        "Roll Number": 22,
+        "Branch": "CSE",
+        "Subjects": [
+            "math",
+            "phy",
+            "cs"
+        ],
+        "Marks": {
+            "math": 25,
+            "phy": 26,
+            "cs": 24
+        },
+        "Technical Skills": [
+            "python",
+            "dsa"
+        ]
+    },
+    {
+        "Name": "Arshad Ali",
+        "Roll Number": 1,
+        "Branch": "Computer Enginnering",
+        "Subjects": [
+            "CS",
+            "DSA",
+            "Data Science"
+        ],
+        "Marks": {
+            "CS": 100,
+            "DSA": 0,
+            "Data Science": 100
+        },
+        "Technical Skills": [
+            "Sirf",
+            "Baatein",
+            "Achhi",
+            "Karta",
+            "Hu",
+            "Mai"
+        ]
+    }
+]
