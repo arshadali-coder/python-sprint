@@ -1,0 +1,14 @@
+{
+    "Arshad Ali": {
+        "password": "1",
+        "wins": 0,
+        "losses": 1,
+        "draws": 0
+    },
+    "karthik": {
+        "password": "17yrs",
+        "wins": 0,
+        "losses": 2,
+        "draws": 1
+    }
+}
