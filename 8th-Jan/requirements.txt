@@ -1,0 +1,10 @@
+# Vault OS 2.0 - Requirements
+# ==========================
+# Next-Generation Password Manager
+
+# Core Dependencies
+rich>=13.0.0           # Beautiful terminal UI
+cryptography>=41.0.0   # Encryption (Fernet, PBKDF2)
+
+# Optional Dependencies (for enhanced features)
+pyperclip>=1.8.0       # Clipboard support (optional)
